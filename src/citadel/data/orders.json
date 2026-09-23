@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ORD-1001",
+    "plan": "专业版",
+    "amount": 1999,
+    "status": "paid",
+    "age_days": 2,
+    "invoiced": false
+  },
+  {
+    "id": "ORD-1002",
+    "plan": "专业版",
+    "amount": 1999,
+    "status": "paid",
+    "age_days": 1,
+    "invoiced": true
+  },
+  {
+    "id": "ORD-1003",
+    "plan": "企业版",
+    "amount": 6999,
+    "status": "paid",
+    "age_days": 12,
+    "invoiced": false
+  }
+]
